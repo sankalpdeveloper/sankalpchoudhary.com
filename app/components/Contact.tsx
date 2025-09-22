@@ -16,7 +16,7 @@ export default function Contact() {
           <div className="w-24 h-1 bg-gradient-to-r from-purple-400 to-pink-400 mx-auto mb-8"></div>
           <p className="text-gray-300 text-lg max-w-2xl mx-auto">
             Open to work in Web Developer, Python Developer, Javascript Developer, React Developer and DevOps Engineer roles. 
-            Let's discuss healthcare technology, MERN stack development, or exciting new opportunities!
+            Let&apos;s discuss healthcare technology, MERN stack development, or exciting new opportunities!
           </p>
         </motion.div>
 
@@ -27,7 +27,7 @@ export default function Contact() {
               whileInView={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.8 }}
             >
-              <h3 className="text-2xl font-bold text-white mb-6">Let's Connect</h3>
+              <h3 className="text-2xl font-bold text-white mb-6">Let&apos;s Connect</h3>
               <div className="space-y-4">
                 <div className="flex items-center">
                   <span className="text-purple-400 mr-4">📧</span>

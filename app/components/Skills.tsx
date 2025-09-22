@@ -1,12 +1,10 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { useInView } from 'framer-motion';
 import { useRef } from 'react';
 
 export default function Skills() {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: true });
 
   return (
     <section ref={ref} id="skills" className="py-20 px-4 sm:px-6 lg:px-8 relative">

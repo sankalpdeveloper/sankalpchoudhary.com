@@ -24,7 +24,7 @@ export default function About() {
           >
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
               Full-stack developer with expertise in JavaScript, HTML/CSS, Node.js, React.js, Redux, 
-              Express, FastAPI, and Next.js. Currently serving as SDE-2 at Health-e, where I've built 
+              Express, FastAPI, and Next.js. Currently serving as SDE-2 at Health-e, where I&apos;ve built 
               scalable applications using Node.js and React.js, reducing development time by 30%.
             </p>
             <p className="text-gray-300 text-lg leading-relaxed mb-6">

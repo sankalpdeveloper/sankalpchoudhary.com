@@ -89,7 +89,7 @@ export default function Experience() {
               <span className="text-gray-400 text-sm">Oct 2019 - Oct 2021</span>
             </div>
             <p className="text-gray-300 leading-relaxed mb-4">
-              Managed and enhanced the company's CRM system, streamlining sales workflows and improving data accuracy. 
+              Managed and enhanced the company&apos;s CRM system, streamlining sales workflows and improving data accuracy. 
               Led development and maintenance of custom auction platform, ensuring seamless bidding and real-time updates. 
               Coordinated with stakeholders to implement new features, improving user engagement and operational efficiency.
             </p>
