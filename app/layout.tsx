@@ -13,13 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sankalp Choudhary - Full Stack Developer & API Architect",
-  description: "MERN stack developer with healthcare focus and 5+ years experience. Building impactful web apps using React, Node.js, MongoDB. Expert in UHI, ABHA, AWS, and API architectures at Health-e.in",
-  keywords: ["MERN Stack Developer", "Health-e.in", "UHI", "ABHA", "Node.js", "React", "MongoDB", "Healthcare Technology", "Full Stack Developer", "AWS"],
+  title: "Sankalp Choudhary - Full Stack Developer & Software Engineer",
+  description: "Expert Full Stack Developer with JavaScript, React.js, Node.js, Express, FastAPI, and Next.js. SDE-2 at Health-e specializing in healthcare platforms, REST APIs, and performance optimization. Master of Computer Science from Jain University.",
+  keywords: ["Sankalp Choudhary", "Full Stack Developer", "JavaScript", "React.js", "Node.js", "Express", "FastAPI", "Health-e", "Software Engineer", "SDE-2", "Healthcare Technology", "REST APIs", "MongoDB", "PostgreSQL"],
   authors: [{ name: "Sankalp Choudhary" }],
   openGraph: {
     title: "Sankalp Choudhary - Full Stack Developer",
-    description: "Passionate Full Stack Developer specializing in scalable web applications and robust API architectures.",
+    description: "Expert Full Stack Developer specializing in JavaScript, React.js, Node.js, and healthcare platforms. SDE-2 at Health-e with proven track record of optimizing performance and building scalable applications.",
     type: "website",
   },
 };

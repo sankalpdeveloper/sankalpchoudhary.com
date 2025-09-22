@@ -23,20 +23,20 @@ export default function About() {
             transition={{ duration: 0.8 }}
           >
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
-              MERN stack developer with a healthcare focus and over 5 years of experience. 
-              Building impactful web apps using React, Node.js, and MongoDB for seamless data 
-              exchange and user-friendly interfaces. I optimize performance, build RESTful APIs, 
-              and collaborate across teams.
+              Full-stack developer with expertise in JavaScript, HTML/CSS, Node.js, React.js, Redux, 
+              Express, FastAPI, and Next.js. Currently serving as SDE-2 at Health-e, where I've built 
+              scalable applications using Node.js and React.js, reducing development time by 30%.
             </p>
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
-              Passionate about solving healthcare challenges with technology. My current project 
-              in the healthcare sector has equipped me with valuable knowledge and experience in 
-              this domain, enabling me to contribute effectively to healthcare-related initiatives 
-              including UHI and ABHA integrations.
+              Specialized in designing and integrating REST APIs, boosting system interoperability 
+              across key health modules. Expert in optimizing frontend performance with reusable React 
+              components, improving load times by 40%, and led backend development with Express.js and 
+              MongoDB, enhancing data throughput by 25%.
             </p>
             <p className="text-gray-300 text-lg leading-relaxed">
-              Recently completed Deep Research with LangGraph certification from LangChain, 
-              continuously expanding my expertise in modern technologies and AI integration.
+              Deployed applications via Docker and AWS, achieving 99.9% uptime and smooth CI/CD workflows. 
+              Fluent in Hindi with conversational proficiency in English, bringing strong communication 
+              skills to collaborative development environments.
             </p>
           </motion.div>
           
@@ -49,24 +49,28 @@ export default function About() {
             <h3 className="text-2xl font-bold text-white mb-6">Quick Facts</h3>
             <div className="space-y-4">
               <div className="flex items-center">
-                <span className="text-purple-400 mr-3">📍</span>
-                <span className="text-gray-300">Ahmedabad, Gujarat, India</span>
+                <span className="text-purple-400 mr-3">📱</span>
+                <span className="text-gray-300">+91 9549736263</span>
+              </div>
+              <div className="flex items-center">
+                <span className="text-purple-400 mr-3">📧</span>
+                <span className="text-gray-300">hello@sankalpchoudhary.com</span>
               </div>
               <div className="flex items-center">
                 <span className="text-purple-400 mr-3">💼</span>
-                <span className="text-gray-300">SDE-2 at Health-e.in</span>
+                <span className="text-gray-300">SDE-2 at Health-e</span>
               </div>
               <div className="flex items-center">
                 <span className="text-purple-400 mr-3">🎯</span>
-                <span className="text-gray-300">UHI & ABHA Specialist</span>
-              </div>
-              <div className="flex items-center">
-                <span className="text-purple-400 mr-3">🚀</span>
-                <span className="text-gray-300">5+ Years Experience</span>
+                <span className="text-gray-300">MERN Stack Specialist</span>
               </div>
               <div className="flex items-center">
                 <span className="text-purple-400 mr-3">🎓</span>
-                <span className="text-gray-300">MCA - Jain University</span>
+                <span className="text-gray-300">MCS - Jain University, Bengaluru</span>
+              </div>
+              <div className="flex items-center">
+                <span className="text-purple-400 mr-3">🎓</span>
+                <span className="text-gray-300">BSc - Lucky Institute, Jodhpur</span>
               </div>
             </div>
           </motion.div>

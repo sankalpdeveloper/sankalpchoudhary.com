@@ -31,8 +31,14 @@ export default function Contact() {
               <div className="space-y-4">
                 <div className="flex items-center">
                   <span className="text-purple-400 mr-4">📧</span>
-                  <a href="mailto:s.choudhary@health-e.in" className="text-gray-300 hover:text-white transition-colors">
-                    s.choudhary@health-e.in
+                  <a href="mailto:hello@sankalpchoudhary.com" className="text-gray-300 hover:text-white transition-colors">
+                    hello@sankalpchoudhary.com
+                  </a>
+                </div>
+                <div className="flex items-center">
+                  <span className="text-purple-400 mr-4">📱</span>
+                  <a href="tel:+919549736263" className="text-gray-300 hover:text-white transition-colors">
+                    +91 9549736263
                   </a>
                 </div>
                 <div className="flex items-center">

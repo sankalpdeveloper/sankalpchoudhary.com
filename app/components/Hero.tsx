@@ -91,9 +91,9 @@ export default function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.5 }}
             >
-              MERN stack developer with healthcare focus and 5+ years of experience. 
-              Building impactful web apps using React, Node.js, and MongoDB for seamless data 
-              exchange and user-friendly interfaces. Expert in UHI, ABHA, AWS, and API architectures.
+              Full-stack developer with expertise in JavaScript, React.js, Node.js, and Express. 
+              Specialized in building scalable healthcare platforms, optimizing performance by 40%, 
+              and implementing robust REST APIs. Proficient in Python, TypeScript, and database technologies.
             </motion.p>
 
             <motion.div 

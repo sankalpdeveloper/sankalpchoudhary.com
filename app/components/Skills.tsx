@@ -40,10 +40,10 @@ export default function Skills() {
             <h3 className="text-2xl font-bold text-white mb-6">Frontend</h3>
             <div className="space-y-4">
               {[
-                { name: 'React', level: 95 },
-                { name: 'Next.js', level: 90 },
-                { name: 'TypeScript', level: 85 },
-                { name: 'Tailwind CSS', level: 92 }
+                { name: 'JavaScript', level: 95 },
+                { name: 'React.js', level: 90 },
+                { name: 'Redux', level: 85 },
+                { name: 'HTML/CSS', level: 92 }
               ].map((skill) => (
                 <div key={skill.name} className="space-y-2">
                   <div className="flex justify-between">
@@ -73,9 +73,9 @@ export default function Skills() {
             <div className="space-y-4">
               {[
                 { name: 'Node.js', level: 95 },
-                { name: 'Express.js', level: 92 },
-                { name: 'MongoDB', level: 88 },
-                { name: 'PostgreSQL', level: 80 }
+                { name: 'Express', level: 90 },
+                { name: 'FastAPI', level: 85 },
+                { name: 'Next.js', level: 88 }
               ].map((skill) => (
                 <div key={skill.name} className="space-y-2">
                   <div className="flex justify-between">
@@ -101,13 +101,13 @@ export default function Skills() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="glass-effect rounded-2xl p-8 card-hover animated-border group"
           >
-            <h3 className="text-2xl font-bold text-white mb-6">Tools & Others</h3>
+            <h3 className="text-2xl font-bold text-white mb-6">Database & Tools</h3>
             <div className="space-y-4">
               {[
-                { name: 'AWS', level: 85 },
-                { name: 'Git', level: 95 },
-                { name: 'Postman', level: 90 },
-                { name: 'VS Code', level: 95 }
+                { name: 'MongoDB', level: 90 },
+                { name: 'PostgreSQL', level: 85 },
+                { name: 'Redis', level: 80 },
+                { name: 'Git', level: 95 }
               ].map((skill) => (
                 <div key={skill.name} className="space-y-2">
                   <div className="flex justify-between">

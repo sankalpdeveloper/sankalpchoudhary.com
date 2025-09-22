@@ -5,23 +5,23 @@ import { motion } from 'framer-motion';
 export default function Projects() {
   const projects = [
     {
-      title: "Health-e Lab Test Platform",
-      description: "Comprehensive lab test management system with cart functionality, user management, and payment integration.",
-      tech: ["Node.js", "Express", "MongoDB", "React", "Swagger"],
+      title: "Health-e Platform",
+      description: "Full-fledged health management platform from scratch. Enables users to upload medical records and monitor health parameters. Provides intelligent health insights based on user data.",
+      tech: ["MERN Stack", "Health Tracking", "Data Analytics", "Medical Records"],
       github: "#",
       demo: "#"
     },
     {
-      title: "FastAPI AI Assistant",
-      description: "AI-powered chatbot and data extraction service built with FastAPI, featuring document processing and conversation management.",
-      tech: ["Python", "FastAPI", "OpenAI", "PostgreSQL", "Docker"],
+      title: "Health-e Specialized Modules",
+      description: "Integrated specialized healthcare modules including Pregnancy Tracking, Childcare, and Cardiac Monitoring. Scalable and modular architecture for future healthcare extensions.",
+      tech: ["React.js", "Node.js", "MongoDB", "Healthcare APIs"],
       github: "#",
       demo: "#"
     },
     {
-      title: "Insurance Claim UI",
-      description: "Modern React application for insurance claim management with TypeScript and shadcn/ui components.",
-      tech: ["React", "TypeScript", "Tailwind", "shadcn/ui"],
+      title: "GoodTalk - Video Sharing Platform",
+      description: "Mobile app built with React Native inspired by TikTok. Users can view, like, and share videos with smooth and interactive UI. Features admin dashboard and real-time video compression.",
+      tech: ["React Native", "Node.js", "MongoDB", "Video Processing"],
       github: "#",
       demo: "#"
     }
